@@ -1,4 +1,6 @@
 About Me 💻✨
+
+
 👋 Hi, I'm Emma!
 
 🚀 I'm a junior programmer with a strong background in backend development using Python, specializing in frameworks like Django and Flask.

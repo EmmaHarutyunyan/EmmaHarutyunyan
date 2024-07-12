@@ -1,17 +1,17 @@
-About Me  💻✨
+# About Me✨:
 
 
 👋 Hi, I'm Emma!
 
-🚀 I'm a junior programmer with a strong background in backend development using Python, specializing in frameworks like Django and Flask.
+I'm a junior programmer with a strong background in backend development using Python, specializing in frameworks like Django and Flask.
 
-💾 Proficient in database management using MySQL, SQLite, PostgreSQL, and MongoDB, ensuring smooth data operations.
+Proficient in database management using MySQL, SQLite, PostgreSQL, and MongoDB, ensuring smooth data operations.
 
-🐳 Experienced in containerization with Docker, enabling efficient deployment and scaling of applications.
+Experienced in containerization with Docker, enabling efficient deployment and scaling of applications.
 
-☁️ Familiar with cloud platforms such as AWS, leveraging services to optimize performance and reliability.
+Familiar with cloud platforms such as AWS, leveraging services to optimize performance and reliability.
 
-🌱 Passionate about learning new technologies and contributing to collaborative projects that make a difference.
+Passionate about learning new technologies and contributing to collaborative projects that make a difference.
 
 Let's connect and collaborate on exciting projects!
 
